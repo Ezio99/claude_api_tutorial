@@ -35,3 +35,6 @@ def chat(
 
     reply = client.messages.create(**params)
     return reply.content[0].text
+
+
+# --- Eval helpers --
