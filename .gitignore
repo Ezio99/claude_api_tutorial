@@ -12,3 +12,8 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
+# Misc
+*/dataset.json
+*/output.json
+*/output.html
+
